@@ -109,3 +109,27 @@ while True:
         print("Upss ada yang salah, silahkan cek kembali.")
 
 ```
+
+### OutPut
+
+<hr>
+
+#### Tambah data
+
+![tambah data](foto/tambah.png) <br>
+
+#### Ubah data
+
+![ubah data](foto/ubah.png) <br>
+
+#### Lihat data
+
+![lihat data](foto/lihat.png) <br>
+
+#### Cari data
+
+![Carii data](foto/cari.png) <br>
+
+#### Hapus data
+
+![hapus data](foto/hapus.png) <br>
